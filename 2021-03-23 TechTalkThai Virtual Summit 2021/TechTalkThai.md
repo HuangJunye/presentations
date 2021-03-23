@@ -1,5 +1,3 @@
-TechTalkThai
-
 # Hands-on Quantum Computing Workshop @ TechTalkThai Virtual Summit 2021
 
 ## Circuit composer (20 min)
